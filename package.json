@@ -1,0 +1,19 @@
+{
+  "name": "coco_desarrollo",
+  "version": "1.0.0",
+  "description": "Galeria de arte",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Co-codrilo/coco_desarrollo.git"
+  },
+  "author": "Cocodrilos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Co-codrilo/coco_desarrollo/issues"
+  },
+  "homepage": "https://github.com/Co-codrilo/coco_desarrollo#readme"
+}
